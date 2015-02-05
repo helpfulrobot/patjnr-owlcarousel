@@ -1,0 +1,9 @@
+.owlCarousel .item{
+    margin: 3px;
+    width: 170px;height: 170px;
+}
+.owlCarousel .item img{
+    display: block;
+    width: 100%;
+    height: auto;
+}
