@@ -1,5 +1,5 @@
 {
-  "name": "patjnr/owlcarousel",
+  "name": "patjnr/silverstripe-owlcarousel",
   "description": "owlcarousel as a silverstripe module",
   "type": "silverstripe-module",
   "homepage": "http://github.com/patjnr/silverstripe-owlcarousel",
@@ -15,5 +15,8 @@
   {
     "silverstripe/framework": "3.*",
     "silverstripe/cms": "3.*"
+  },
+  "extra": {
+    "installer-name": "owlcarousel"
   }
 }
