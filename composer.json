@@ -1,0 +1,19 @@
+{
+  "name": "patjnr/silverstripe-owlcarousel",
+  "description": "owlcarousel as a silverstripe module",
+  "type": "silverstripe-module",
+  "homepage": "http://github.com/patjnr/silverstripe-owlcarousel",
+  "keywords": ["silverstripe", "owlcarousel", "sliders", "chitosystems"],
+  "license": "BSD-3-Clause",
+  "authors": [
+    {
+      "name": "Itayi Patrick",
+      "email": "patrick@chitosystems.com"
+    }
+  ],
+  "require":
+  {
+    "silverstripe/framework": "3.*",
+    "silverstripe/cms": "3.*"
+  }
+}
